@@ -1,0 +1,14 @@
+13
+978-1234567890 / LapTrinhC++CoBan / NguyenVanA / NhaXuatBanBachKhoa / 2022 / CNTT / 120000 / 50
+978-0987654321 / HanhTrinhKhoaHoc / TranThiBanh / NhaXuatBanTuDo / 2020 / KhoaHoc / 150000 / 30
+978-4455667788 / PhatTrienBanThan / MaiThiDoan / NhaXuatBanSongDep / 2023 / TamLiHoc / 250000 / 50
+978-1122334455 / LapTrinhJavaCoBan / LeThiMai / NhaXuatBanDaiHoc / 2021 / CNTT / 120000 / 40
+978-2233445566 / KhoaHocVatLyCungHieu / NguyenThiLan / NhaXuatBanHienDai / 2020 / KhoaHoc / 180000 / 60
+978-3344556677 / ChinhPhucTamLy / PhanNgocBich / NhaXuatBanThanhNien / 2022 / TamLiHoc / 220000 / 45
+978-4455778899 / LichSuViHanhCuaConNguoi / HoangThiLan / NhaXuatBanKhoaHoc / 2021 / LichSu / 160000 / 35
+978-5566889900 / QuanLyDuAnXepHinh / TranThiLan / NhaXuatBanDaiHoc / 2023 / KinhTe / 200000 / 50
+978-6677889900 / ToanHocCungVui / VuThiLan / NhaXuatBanToanHoc / 2021 / ToanHoc / 130000 / 55
+978-7788990011 / KhaiPhaKhoaHoc / PhamNgocHan / NhaXuatBanKhoaHoc / 2020 / KhoaHoc / 140000 / 40
+978-8899001122 / TuDuyPhatTrien / DoThiLan / NhaXuatBanDaiHoc / 2022 / TamLiHoc / 210000 / 50
+978-9900112233 / MinhTrietVaCuocSong / LeThiTuyet / NhaXuatBanTriThuc / 2023 / TrietHoc / 250000 / 60
+978-1112233445 / LapTrinhPythonCoBan / NguyenThiThu / NhaXuatBanKhoaHoc / 2021 / CNTT / 140000 / 45
